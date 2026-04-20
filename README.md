@@ -18,6 +18,7 @@ This repository serves as a public archive of security issues I have identified,
 | CVE-ID | Classification | Severity | Explanation |
 |--------|--------------|----------|------------|
 | CVE-2026-35184 | SQL Injection in EcclesiaCRM | High (CWE-89) | [View Details](https://github.com/NicolasPauferro/CVE/blob/main/CVE-2026-35184.md) |
+| CVE-2026-6626  | NoSQL Injection in CockpitHQ CMS | High (CWE-89) | [View Details](https://github.com/NicolasPauferro/CVE/blob/main/CVE-2026-6626.md)
 
 ---
 
